@@ -5,3 +5,5 @@
 
 [debtors](debtors.md)
 
+[terminal](terminal.md)
+
